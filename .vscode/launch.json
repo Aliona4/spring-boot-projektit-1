@@ -1,0 +1,38 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Demo2Application",
+      "request": "launch",
+      "mainClass": "main.java.com.example.demo2.Demo2Application",
+      "projectName": "demo2"
+    },
+    {
+      "type": "java",
+      "name": "Launch Demo3Application",
+      "request": "launch",
+      "mainClass": "com.example.demo3.Demo3Application",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-Demo2Application<demo2>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "com.example.demo2.Demo2Application",
+      "projectName": "demo2",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-Demo3Application<demo3>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "com.example.demo3.Demo3Application",
+      "projectName": "demo3",
+      "args": ""
+    }
+  ]
+}
